@@ -1,3 +1,5 @@
 -   [Getting a repo](./getting_repo.html)
 -   [Add]
 -   [Fad]
+-   [Adding]
+-   [Show]
